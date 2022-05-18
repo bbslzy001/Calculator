@@ -1,0 +1,2 @@
+C:\Users\78339\Desktop\Calculator\x64\Debug\Calculator.exe
+G:\大一\大一下\C++实验\Calculator\x64\Debug\Calculator.exe
