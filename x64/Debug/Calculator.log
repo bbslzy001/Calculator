@@ -1,2 +1,6 @@
-﻿  Function.cpp
-  Calculator.vcxproj -> G:\大一\大一下\C++实验\Calculator\x64\Debug\Calculator.exe
+﻿  Calculator.cpp
+  Function.cpp
+D:\_info--C++\Calculator\Function.cpp(375,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Setting.cpp
+  正在生成代码...
+  Calculator.vcxproj -> D:\_info--C++\Calculator\x64\Debug\Calculator.exe
